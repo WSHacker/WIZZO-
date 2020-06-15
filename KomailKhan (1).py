@@ -90,7 +90,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mWIZZO - HACKER 
 
 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mYoutube \033[1;93m: \033[1;92mhttps://www.youtube.com/channel/UCCfRhq_1uJmMIWMl28h9YZw?view_as=subscriber
 \033[1;91m======================================="""
 
 def tik():
@@ -140,7 +140,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92m WIZZO - HACKER 
 
 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/
+https://www.youtube.com/channel/UCCfRhq_1uJmMIWMl28h9YZw?view_as=subscriber
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -157,10 +157,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open https://www.youtube.com/channel/UCCfRhq_1uJmMIWMl28h9YZw?view_as=subscriber')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open  https://www.youtube.com/channel/UCCfRhq_1uJmMIWMl28h9YZw?view_as=subscriber ')
 
 def login():
 	os.system('clear')
